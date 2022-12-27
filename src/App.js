@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, {useState } from "react";
 import AddTodo from "./component/AddTodo";
 import TodoList from "./component/TodoList";
 import axios from "axios";
